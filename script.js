@@ -1,6 +1,6 @@
 function getFormvalue() {
 	let form=document.querySelector("form");
-	
-    alert("")
+	let str=form["fname"].value+" "+form["lname"].value
+    alert(str);
 
 }
