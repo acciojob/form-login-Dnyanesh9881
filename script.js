@@ -1,4 +1,6 @@
 function getFormvalue() {
-    //Write your code here
+	let form=document.querySelector("form");
+	
+    alert("")
 
 }
